@@ -1,0 +1,4 @@
+.vs/
+**/bin/
+**/obj/
+EverData/EverData.csproj.user
